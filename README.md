@@ -25,11 +25,7 @@ Examples.
 
 ## Contributing
 
-Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426) for details on our code of conduct, and the process for submitting pull requests to us.
-
-## Versioning
-
-We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/your/project/tags). 
+If you want to contribute that's great! Send a pull request and I will review it.
 
 ## Authors
 
@@ -37,8 +33,8 @@ We use [SemVer](http://semver.org/) for versioning. For the versions available, 
 
 ## License
 
-This project is licensed under the GNU license - see the [LICENSE.md](LICENSE) file for details
+This project is licensed under the GNU license - see the [LICENSE](LICENSE) file for details
 
 ## Acknowledgments
 
-* Acknowledgement
+* Thanks to [Stig Thomas](https://github.com/ribbreaker) reviewing the code.
