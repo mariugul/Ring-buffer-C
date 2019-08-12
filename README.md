@@ -2,13 +2,13 @@
  Ring buffer library for C.
 
  ##### Table of Contents  
-[Getting Started](#Getting Started)  
+[Getting Started](#GettingStarted)  
 [E](#emphasis)  
 ...snip...    
 <a name="headers"/>
 
 ## Getting Started
-<a name="Getting Started"/>
+<a name="GettingStarted"/>
 get started.
 
 ### Installing
