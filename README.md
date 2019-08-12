@@ -1,7 +1,7 @@
 # Ring Buffer Libary written for C
  A ring buffer library for C. This library can be used when you want to save a certain amount of data and only care about the newest "x" amount of it.
  
- ![](https://upload.wikimedia.org/wikipedia/commons/f/fd/Circular_Buffer_Animation.gif)
+ <img src="https://upload.wikimedia.org/wikipedia/commons/f/fd/Circular_Buffer_Animation.gif" width="500">
 
  ##### Table of Contents  
 [Getting Started](#GettingStarted)  
