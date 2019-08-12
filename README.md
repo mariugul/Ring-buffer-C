@@ -41,10 +41,10 @@ Prints the ring buffer data for verification or debug purposes.
 #### void ringbuffer_printvar (ringbuffer* a)                     
 Prints the relevant variables for verification or debug purposes.
 
-#### Variables
+### Variables
 
 
-#### Examples
+### Examples
 Examples.
 
 ## Contributing
