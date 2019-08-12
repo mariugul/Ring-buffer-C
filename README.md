@@ -18,11 +18,6 @@ Install like this.
 ## Examples
 Examples.
 
-## Some links
-
-* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - The web framework used
-
-
 ## Contributing
 
 If you want to contribute that's great! Send a pull request and I will review it.
