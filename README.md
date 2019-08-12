@@ -3,15 +3,15 @@
 
  ##### Table of Contents  
 [Getting Started](#GettingStarted)  
-[E](#emphasis)  
-...snip...    
-<a name="headers"/>
+[Installing](#Installing)  
+
 
 ## Getting Started
 <a name="GettingStarted"/>
 get started.
 
 ### Installing
+<a name="Installing"/>
 
 Install like this.
 
